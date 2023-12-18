@@ -3,4 +3,4 @@ This repository contains the model of spatital attension and the files for segme
 this segmentataion involves preproccesing the data and trained using the nvidia-gpu 
 this has been trained using batch of 2 and 100 epocs.
 
-![General Flow](\datapreproces.png)
+![General Flow](/datapreproces.png)
